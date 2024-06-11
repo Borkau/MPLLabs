@@ -4,13 +4,13 @@ using namespace std;
 void exponention()
 {
 	int i, k, num;
-	cout << "‚¢¥¤¨â¥ ®á­®¢ ­¨ï: ";
+	cout << "˜˜˜˜˜˜ ˜?˜˜˜˜˜: ";
 	cin >> num;
 	int power(int, int);
 	for (i = 0; i < 10; i++)
 	{
 		k=power(num, i);
-		cout<< "—¨á«®: "<< num << "\táâ¥¯¥­ì: " << i << "\t¨â®£: " << k << endl;
+		cout<< "˜˜?: "<< num << "\t˜?˜˜˜: " << i << "\t˜?: " << k << endl;
 	}
 }
 
